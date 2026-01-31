@@ -7,7 +7,6 @@
 🚀 Passionate about technology • Apaixonada por tecnologia
 </p>
 
----
 
 <h2>🌍 About Me | Sobre mim</h2>
 
@@ -23,7 +22,6 @@ Atualmente estou aprendendo <strong>Análise e Desenvolvimento de Sistemas</stro
 Meu foco principal é <strong>Python</strong> e <strong>JavaScript</strong>, mas no momento estou estudando mais <strong>Java</strong>.
 </p>
 
----
 
 <h2>🧠 Languages & Tools | Linguagens</h2>
 
@@ -36,24 +34,15 @@ Meu foco principal é <strong>Python</strong> e <strong>JavaScript</strong>, mas
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
----
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+<img src="[https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight](https://github.com/N1kearr)"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight](https://github.com/N1kearr)"/>
 </p>
 
----
 
-<h2>🔥 Streak Stats</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=tokyonight"/>
-</p>
-
----
 
 <h2>🎯 Current Focus | Foco Atual</h2>
 
@@ -63,7 +52,6 @@ Meu foco principal é <strong>Python</strong> e <strong>JavaScript</strong>, mas
 <li>☕ Learning more about Java | Aprendendo mais Java</li>
 </ul>
 
----
 
 <p align="center">
 ✨ Always learning • Sempre aprendendo ✨
